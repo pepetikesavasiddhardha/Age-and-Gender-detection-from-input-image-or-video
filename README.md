@@ -1,1 +1,1 @@
-# Age-and-Gender-detection-from-input-image-video
+# Age-and-Gender-detection-from-input-image/video
